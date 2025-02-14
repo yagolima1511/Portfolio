@@ -99,6 +99,10 @@ section.top-do-site.flex{
     line-height: 40px;
 }
 
+.txt-topo-site span{
+    color: #00ff08;
+}
+
 .topo-do-site .txt-topo-site p{
     color: white;
     margin: 40px 30px;
@@ -304,7 +308,16 @@ footer .line-footer p{
     .menu-desktop, .btn-contato{
         display: none;
     }
+    
+    .img-topo-site {
+        display: none;
+    }
 
+    .txt-topo-site h1{
+        margin: 7px;
+        text-align: center;
+        font-size: 35px;
+    }
 
     /*topo do site*/
 
@@ -319,6 +332,7 @@ footer .line-footer p{
     .topo-do-site h1{
         font-size: 30px;
     }
+
 
     .topo-do-site .img-topo-site img{
         width: 100%;
@@ -373,11 +387,16 @@ footer .line-footer p{
 
 .tamanho-fixo{
 
-    width: 381px;
+    
     height: 492px;
 }
 
-
+header a {
+    color: #bdbdbd;
+    text-decoration: none;
+    display: inline-block;
+    transition: .2s;
+}
 
 
 
