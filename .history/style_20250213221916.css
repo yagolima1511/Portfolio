@@ -191,7 +191,7 @@ section.sobre .flex{
      height: 60px;
      border-radius: 50%;
      border: none;
-     background-color: #00d0ff;
+     background-color: #00ff08;
      font-size: 22px;
      cursor: pointer;
      margin: 0 5px;
@@ -274,11 +274,11 @@ footer .line-footer{
 }
 
 .borda{
-    border-top: 2px solid #00d0ff;
+    border-top: 2px solid #00ff08;
 }
 
 footer .line-footer p i{
-    color: #00d0ff;
+    color: #00ff08;
     font-size: 22px; 
 }
 

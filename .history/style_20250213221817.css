@@ -42,11 +42,11 @@ h2.titulo{
 }
 
 h2.titulo span{
-    color: #00d0ff;
+    color: #00ff08;
 }
 
  button:hover{
-    box-shadow: 0px 0px 8px #00d0ff;
+    box-shadow: 0px 0px 8px #00ff08;
     transform: scale(1.05);
 }
 
@@ -147,7 +147,7 @@ section.especialidades .flex{
 
 .especialidades .especialidades-box i{
     font-size: 80px;
-    color: #00d0ff;
+    color: #00ff08;
 }
 
 .especialidades .especialidades-box h3{
@@ -176,7 +176,7 @@ section.sobre .flex{
 }
 
 .sobre .txt-sobre h2 span{
-    color: #00d0ff;
+    color: #00ff08;
     display: block;
 }
 
@@ -191,7 +191,7 @@ section.sobre .flex{
      height: 60px;
      border-radius: 50%;
      border: none;
-     background-color: #00d0ff;
+     background-color: #00ff08;
      font-size: 22px;
      cursor: pointer;
      margin: 0 5px;
@@ -274,11 +274,11 @@ footer .line-footer{
 }
 
 .borda{
-    border-top: 2px solid #00d0ff;
+    border-top: 2px solid #00ff08;
 }
 
 footer .line-footer p i{
-    color: #00d0ff;
+    color: #00ff08;
     font-size: 22px; 
 }
 
